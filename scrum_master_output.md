@@ -1,0 +1,3 @@
+github_operations({"repo_name": "flowers-website", "description": "selling followersweb", "config": {"GITHUB_TOKEN": "your_github_token"}, "issue_title": "create", "issue_body": "selling", "feature_branch": "fullstack", "file_name": "flowers.py", "file_content": "import flowers\nprint('Hello, world!')", "pr_title": "updated flowers.py", "pr_body": "created"})
+
+This command creates a new repository on GitHub named "flowers-website" with a description of "selling followersweb". It then creates a new issue titled "create" with a description of "selling". Next, it creates a feature branch named "fullstack" and adds a file named "flowers.py" with the provided content. Finally, it creates a pull request named "updated flowers.py" with a description of "created".
